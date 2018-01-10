@@ -1,0 +1,18 @@
+﻿<master version="5.1" minAllowVersion="5.1" ID="3A29922A-3BEB-4417-B02A-4DDEE6F7C44B">
+  <controls>
+    <control controlID="84CABE81-AF1A-40E4-AC95-9ACC6F59A69E" controlTypeID="Master" x="-1" y="0" w="375" h="67" zOrder="0" masterID="3A29922A-3BEB-4417-B02A-4DDEE6F7C44B">
+      <groupChildrenDescriptors>
+        <control controlID="070AF951-1A3E-4726-A128-F410C9D6413C" controlTypeID="StatusBar(Android)" x="0" y="0" w="375" h="20" zOrder="0">
+          <color>4278242559</color>
+        </control>
+        <control controlID="CAF484AB-93C2-472C-9D7D-1F874C67458A" controlTypeID="Shape" x="0" y="20" w="375" h="47" zOrder="1">
+          <color>4278242559</color>
+          <borderVisible>False</borderVisible>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

@@ -1,0 +1,89 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="D89FA8AE-0D5E-48AA-B29E-DC447464ADEC" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="6">
+    <control controlID="387FAA17-A91D-4693-80E9-C9DBB153D933" controlTypeID="StatusBar(Android)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>4278242559</color>
+    </control>
+    <control controlID="6248141A-2960-4EF8-A9AD-5CEB2BDD74CB" controlTypeID="Shape" x="0" y="20" w="375" h="47" zOrder="1">
+      <color>4278242559</color>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C6731573-F5BC-4A1B-AD67-7F1C55B35AFC" controlTypeID="Label" x="170" y="30" w="44" h="22" zOrder="2">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E8%A7%84%E8%8C%831</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="16047109-BE8E-4ED6-B676-CE3206CE12B7" controlTypeID="Tree" x="0" y="64" w="375" h="595" zOrder="3">
+      <borderColor>4294967295</borderColor>
+      <links eventType="AtClick" animate="AmPushLeft" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="B6134E5F-03F9-4F6A-8156-14149BD9D7CF" linkType="ltPageLink" isApplyIncludePage="False" title="%5B-%5D%E5%89%8D%E8%A8%80">
+          <area shape="0" alt="" ID="{FF81CB4F-CDB1-4CC3-A94E-7DB59092C21E}" coords="(1,1,374,33)"/>
+        </link>
+        <link targetPageID="D632AC89-8493-4802-BE11-E888F5375DB7" linkType="ltPageLink" isApplyIncludePage="False" title="%5B-%5D%E5%BC%95%E8%A8%80">
+          <area shape="0" alt="" ID="{89A5C9E5-4EAD-48CE-91D2-C9237B28F57E}" coords="(1,33,374,65)"/>
+        </link>
+        <link targetPageID="B6134E5F-03F9-4F6A-8156-14149BD9D7CF" linkType="ltPageLink" isApplyIncludePage="False" title="%5B-%5D1+%E8%8C%83%E5%9B%B4">
+          <area shape="0" alt="" ID="{B907B140-9E6A-415F-AFFD-8629E089C3BC}" coords="(1,65,374,97)"/>
+        </link>
+        <link targetPageID="D632AC89-8493-4802-BE11-E888F5375DB7" linkType="ltPageLink" isApplyIncludePage="False" title="%5B-%5D2+%E8%A7%84%E8%8C%83%E6%80%A7%E5%BC%95%E7%94%A8%E6%96%87%E4%BB%B6">
+          <area shape="0" alt="" ID="{BE787780-BB3E-4A7B-8DE8-98E2348198E3}" coords="(1,97,374,129)"/>
+        </link>
+        <link targetPageID="B6134E5F-03F9-4F6A-8156-14149BD9D7CF" linkType="ltPageLink" isApplyIncludePage="False" title=".%E6%96%87%E4%BB%B6%E4%B8%80">
+          <area shape="0" alt="" ID="{0743B7B8-3FE1-4424-83E8-A0AB269D42F4}" coords="(1,129,374,161)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%5B-%5D3+%E6%9C%AF%E8%AF%AD%E5%92%8C%E5%AE%9A%E4%B9%89">
+          <area shape="0" alt="" ID="{204BE9FB-FC53-47AA-A520-C1FC03A3BABF}" coords="(1,161,374,193)"/>
+        </link>
+        <link targetPageID="D632AC89-8493-4802-BE11-E888F5375DB7" linkType="ltPageLink" isApplyIncludePage="False" title=".%E6%96%87%E4%BB%B6%E4%B8%80">
+          <area shape="0" alt="" ID="{5A25C2EE-2BFF-41DC-97DC-D3A867ED2783}" coords="(1,193,374,225)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%5B-%5D4+%E6%80%BB%E5%88%99">
+          <area shape="0" alt="" ID="{BF92BD37-7430-4432-B8E4-F28A1C89F45F}" coords="(1,225,374,257)"/>
+        </link>
+        <link targetPageID="B6134E5F-03F9-4F6A-8156-14149BD9D7CF" linkType="ltPageLink" isApplyIncludePage="False" title=".%E6%96%87%E4%BB%B6%E4%B8%80">
+          <area shape="0" alt="" ID="{4CB006AF-247D-4E61-A81B-9D57AC0310DC}" coords="(1,257,374,289)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%5B-%5D5+%E5%9F%B9%E8%AE%AD%E5%88%B6%E5%BA%A6">
+          <area shape="0" alt="" ID="{483D7EDA-8DE2-42BB-AE3A-588E52349289}" coords="(1,289,374,321)"/>
+        </link>
+        <link targetPageID="D632AC89-8493-4802-BE11-E888F5375DB7" linkType="ltPageLink" isApplyIncludePage="False" title=".%E6%96%87%E4%BB%B6%E4%B8%80">
+          <area shape="0" alt="" ID="{7A5FF0A1-46BA-4553-B789-BFE0D53261CE}" coords="(1,321,374,353)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%5B-%5D%E5%89%8D%E8%A8%80%0D%0A%5B-%5D%E5%BC%95%E8%A8%80%0D%0A%5B-%5D1+%E8%8C%83%E5%9B%B4%0D%0A%5B-%5D2+%E8%A7%84%E8%8C%83%E6%80%A7%E5%BC%95%E7%94%A8%E6%96%87%E4%BB%B6%0D%0A.%E6%96%87%E4%BB%B6%E4%B8%80%0D%0A%5B-%5D3+%E6%9C%AF%E8%AF%AD%E5%92%8C%E5%AE%9A%E4%B9%89%0D%0A.%E6%96%87%E4%BB%B6%E4%B8%80%0D%0A%5B-%5D4+%E6%80%BB%E5%88%99%0D%0A.%E6%96%87%E4%BB%B6%E4%B8%80%0D%0A%5B-%5D5+%E5%9F%B9%E8%AE%AD%E5%88%B6%E5%BA%A6%0D%0A.%E6%96%87%E4%BB%B6%E4%B8%80</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedColor>4294967295</selectedColor>
+    </control>
+    <control controlID="21A390E0-6251-4794-A975-1766EF5BDF8E" controlTypeID="Icon" x="20" y="30" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmPushLeft" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="77EF265C-EC08-4743-BF25-329E7399ED87" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%90%9C%E7%B4%A2">
+          <area shape="0" alt="" ID="{FE7B57E2-1D84-4E94-B3C0-E5E1A7729281}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+    <control controlID="070A45EF-5576-483C-ACC8-79E7087C713F" controlTypeID="Image" x="315" y="26" w="35" h="32" zOrder="5">
+      <URL>17ADB5DFF6202FA5C5605565695CF784.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

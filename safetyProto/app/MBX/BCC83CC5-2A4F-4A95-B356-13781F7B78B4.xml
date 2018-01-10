@@ -1,0 +1,200 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="BCC83CC5-2A4F-4A95-B356-13781F7B78B4" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="14">
+    <control controlID="6B7C8E51-4BC9-4087-9271-C83E0B0C6360" controlTypeID="TextArea" x="20" y="531" w="335" h="66" zOrder="0">
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{93F0A450-FC21-4F08-9AEC-D3FC9B4A9EF9}" coords="(0,0,335,66)"/>
+          <events title="">
+            <event eventType="atLoad" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="6B7C8E51-4BC9-4087-9271-C83E0B0C6360" IsNeedReplaceAsSelfID="True" isChecked="False" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E3%80%90%E8%A7%A3%E6%9E%90%E3%80%91D+%E8%BF%99%E6%98%AF%E8%A7%A3%E6%9E%90%E8%BF%99%E6%98%AF%E8%A7%A3%E6%9E%90%E8%BF%99%E6%98%AF%E8%A7%A3%E6%9E%90%E8%BF%99%E6%98%AF%E8%A7%A3%E6%9E%90%E8%BF%99%E6%98%AF%E8%A7%A3%E6%9E%90%E8%BF%99%E6%98%AF%E8%A7%A3%E6%9E%90%E8%BF%99%E6%98%AF%E8%A7%A3%E6%9E%90%E8%BF%99%E6%98%AF%E8%A7%A3%E6%9E%90%E8%BF%99%E6%98%AF%E8%A7%A3%E6%9E%90%E8%BF%99%E6%98%AF%E8%A7%A3%E6%9E%90</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="931AC014-1B78-4189-8F6D-7E8EB1ABA5C7" controlTypeID="StatusBar(Android)" x="0" y="0" w="375" h="20" zOrder="1">
+      <color>4278242559</color>
+    </control>
+    <control controlID="DFA7527C-C01C-4A0F-9FAE-59F26EED2550" controlTypeID="Shape" x="0" y="20" w="375" h="47" zOrder="2">
+      <color>4278242559</color>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9178F644-2CEB-4022-AFB6-84620E87BCE7" controlTypeID="Label" x="157" y="30" w="68" h="22" zOrder="3">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%BB%83%E4%B9%A0%E7%A7%91%E7%9B%AE</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1DBEADE7-73CC-44DB-A7F8-0E6289592BC6" controlTypeID="Icon" x="19" y="28" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0A8BECC8-ADDD-45DF-B34B-B35F74945F3A" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%AD%A3%E5%BC%8F%E8%80%83%E8%AF%95">
+          <area shape="0" alt="" ID="{B0449FC2-F07A-4A9B-B758-C8253F1E989F}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+    <control controlID="C0684301-9F5B-439E-B108-0239C9F0C410" controlTypeID="Label" x="19" y="91" w="47" h="19" zOrder="5">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%8D%95%E9%80%89%E9%A2%98</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="926DEBED-D858-4BF2-B3C9-8F8F9111886C" controlTypeID="Label" x="299" y="90" w="44" h="19" zOrder="6">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>2%2F100</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="494EC5AB-044A-408C-9537-89C7704AC65A" controlTypeID="TextArea" x="19" y="137" w="336" h="74" zOrder="7">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>1%E3%80%81%E4%B8%BA%E4%BA%86%E4%BF%9D%E8%AF%81%E5%AE%89%E5%85%A8%E4%BD%9C%E4%B8%9A%EF%BC%8C%E5%9C%A8%E6%9C%BA%E5%99%A8%E8%AE%BE%E8%AE%A1%E4%B8%AD%EF%BC%8C%E5%BA%94%E4%BD%BF%E6%93%8D%E7%BA%B5%E9%80%9F%E5%BA%A6%E4%BA%BA%E7%9A%84%E5%8F%8D%E5%BA%94%E9%80%9F%E5%BA%A6%E4%B8%BA%E4%BA%86%E4%BF%9D%E8%AF%81%E5%AE%89%E5%85%A8%E4%BD%9C%E4%B8%9A%EF%BC%8C%E5%9C%A8%E6%9C%BA%E5%99%A8%E8%AE%BE%E8%AE%A1%E4%B8%AD%EF%BC%8C%E5%BA%94%E4%BD%BF%E6%93%8D%E7%BA%B5%E9%80%9F%E5%BA%A6%E4%BA%BA%E7%9A%84%E5%8F%8D%E5%BA%94%E9%80%9F%E5%BA%A6%E4%B8%BA%E4%BA%86%E4%BF%9D%E8%AF%81%E5%AE%89%E5%85%A8%E4%BD%9C%E4%B8%9A%EF%BC%8C%E5%9C%A8%E6%9C%BA%E5%99%A8%E8%AE%BE%E8%AE%A1%E4%B8%AD%EF%BC%8C%E5%BA%94%E4%BD%BF%E6%93%8D%E7%BA%B5%E9%80%9F%E5%BA%A6%EF%BC%88%EF%BC%89%E4%BA%BA%E7%9A%84%E5%8F%8D%E5%BA%94%E9%80%9F%E5%BA%A6%E3%80%82%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E499F473-B7D3-428A-A4F2-1F9D3F826B9A" controlTypeID="RadioButtonGroup" x="20" y="221" w="255" h="174" zOrder="8">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>A%E3%80%81%E5%A4%A7%E8%87%B4%E7%AD%89%E4%BA%8E%0D%0AB%E3%80%81%E4%BD%8E%E4%BA%8E%0D%0AC%E3%80%81%E9%AB%98%E4%BA%8E%0D%0AD%E3%80%81%E8%BF%9C%E8%BF%9C%E9%AB%98%E4%BA%8E+</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <size>15</size>
+      <itemHeight>36</itemHeight>
+      <itemRect>[{"left":0,"top":0,"right":255,"bottom":36},{"left":0,"top":46,"right":255,"bottom":82},{"left":0,"top":92,"right":255,"bottom":128},{"left":0,"top":138,"right":255,"bottom":174}]</itemRect>
+    </control>
+    <control controlID="38EC8C25-07E9-416B-BA67-2186E8A9F133" controlTypeID="Image" x="268" y="88" w="21" h="23" zOrder="9">
+      <URL>6DB9F82F5714E16ACB99C6BA34CF2853.png</URL>
+    </control>
+    <control controlID="9B8FC583-F488-4B2B-9892-891D7B0ECCBC" controlTypeID="Label" x="218" y="412" w="131" h="19" zOrder="10">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%90%91%E5%B7%A6%E6%BB%91%E5%8A%A8%E8%BF%9B%E5%85%A5%E4%B8%8B%E4%B8%80%E9%A2%98</text>
+      <textColor>4287927444</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9B59706F-73B1-4410-B7A6-983D92FDF790" controlTypeID="Button" x="67" y="455" w="247" h="36" zOrder="11">
+      <color>4278242559</color>
+      <borderVisible>False</borderVisible>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{8A7EA997-552E-4492-822C-5D076C5066CC}" coords="(0,0,247,36)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="6B7C8E51-4BC9-4087-9271-C83E0B0C6360" isChecked="False" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="False" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+                <target targetID="9F21D4FC-6421-4BF6-84CB-5EA1B9CB9E0A" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%9F%A5%E7%9C%8B%E8%A7%A3%E6%9E%90</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9F21D4FC-6421-4BF6-84CB-5EA1B9CB9E0A" controlTypeID="Panel" x="20" y="507" w="340" h="113" zOrder="12">
+      <color>4294111986</color>
+      <borderColor>4294111986</borderColor>
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="8A7C3DC7-1178-4D2A-A210-B4359A6F5D51" controlTypeID="Border" x="0" y="0" w="340" h="113" zOrder="0">
+          <caption>%E8%BE%B9%E6%A1%86</caption>
+          <borderColor>4294111986</borderColor>
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294111986</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

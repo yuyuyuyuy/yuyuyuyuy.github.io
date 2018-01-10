@@ -1,0 +1,76 @@
+﻿<master version="5.1" minAllowVersion="5.1" ID="F932ECE3-F9A6-474C-9CA7-501EC4E7D62C">
+  <controls>
+    <control controlID="6889D010-7F0E-4A62-A91E-DCA4B97B6FA3" controlTypeID="Master" x="0" y="623" w="375" h="43" zOrder="12" masterID="F932ECE3-F9A6-474C-9CA7-501EC4E7D62C">
+      <groupChildrenDescriptors>
+        <control controlID="ACAB751E-CB13-4DB6-A402-482C78569AC9" controlTypeID="__group__" x="0" y="0" w="375" h="43" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="074578B8-A934-4839-A2CA-C780B971D040" controlTypeID="Shape" x="0" y="0" w="94" h="43" zOrder="0">
+              <states>
+                <state propName="TextColor" stateType="state_mouseDown" isChecked="True" value="4278242559" varType="20"/>
+                <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4278242559" varType="20"/>
+              </states>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="5A3CF4B8-2B96-40DB-971D-77E9163CD8F0" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A6%96%E9%A1%B5">
+                  <area shape="0" alt="" ID="{B73E4D08-D740-4E89-9B58-BD9D778E3099}" coords="(0,0,94,43)"/>
+                </link>
+              </links>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%E9%A6%96%E9%A1%B5</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <borderMode>[]</borderMode>
+            </control>
+            <control controlID="67EDA695-7054-457B-855E-254E9F227E3A" controlTypeID="Shape" x="96" y="0" w="94" h="43" zOrder="1">
+              <states>
+                <state propName="TextColor" stateType="state_mouseDown" isChecked="True" value="4278242559" varType="20"/>
+                <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4278242559" varType="20"/>
+              </states>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="17286986-0B86-4E7B-BE20-C5F6791D3BDC" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%AF%BE%E7%A8%8B">
+                  <area shape="0" alt="" ID="{95666DF4-2468-4BE7-9B77-65F420D2586B}" coords="(0,0,94,43)"/>
+                </link>
+              </links>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%E8%AF%BE%E7%A8%8B</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <borderMode>[]</borderMode>
+            </control>
+            <control controlID="2B0AC0F1-1E4A-484B-8414-AEE91C3931BA" controlTypeID="Shape" x="189" y="0" w="94" h="43" zOrder="2">
+              <states>
+                <state propName="TextColor" stateType="state_mouseDown" isChecked="True" value="4278242559" varType="20"/>
+                <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4278242559" varType="20"/>
+              </states>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="77EF265C-EC08-4743-BF25-329E7399ED87" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%90%9C%E7%B4%A2">
+                  <area shape="0" alt="" ID="{B651307A-B37F-4FBC-9A6A-993B888686FC}" coords="(0,0,94,43)"/>
+                </link>
+              </links>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%E6%90%9C%E7%B4%A2</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <borderMode>[]</borderMode>
+            </control>
+            <control controlID="506662BB-4380-402B-B101-234817158131" controlTypeID="Shape" x="281" y="0" w="94" h="43" zOrder="3">
+              <states>
+                <state propName="TextColor" stateType="state_mouseDown" isChecked="True" value="4278242559" varType="20"/>
+                <state propName="TextColor" stateType="state_mouseOver" isChecked="True" value="4278242559" varType="20"/>
+              </states>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="6515064A-B68B-4D01-AC73-739E99B994BD" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%88%91%E7%9A%84">
+                  <area shape="0" alt="" ID="{8DB36AAA-C99A-4E83-8B21-6008537FB86D}" coords="(0,0,94,43)"/>
+                </link>
+              </links>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%E6%88%91%E7%9A%84</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <borderMode>[]</borderMode>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

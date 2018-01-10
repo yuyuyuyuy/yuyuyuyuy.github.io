@@ -1,0 +1,47 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="032C9A6C-4EE1-460C-A409-09BC2C051CE0" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="4">
+    <control controlID="DB8B6E6A-D84A-40C6-B673-252AD8AD5394" controlTypeID="Shape" x="0" y="0" w="375" h="47" zOrder="0">
+      <color>4278242559</color>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4237F6E8-89A2-4B79-BD28-8AD491610D9D" controlTypeID="Label" x="164" y="14" w="38" h="22" zOrder="1">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%94%B6%E8%97%8F</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="648D04F2-B5E2-4235-BA34-636792E0F59F" controlTypeID="Icon" x="15" y="12" w="24" h="24" zOrder="2">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmPushLeft" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6515064A-B68B-4D01-AC73-739E99B994BD" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%88%91%E7%9A%84">
+          <area shape="0" alt="" ID="{8D5E754D-3D9D-4CEB-9683-9895E41A6352}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+    <control controlID="4FBDBED1-879A-4183-8D6A-91250D8B4FDC" controlTypeID="Label" x="121" y="172" w="117" h="19" zOrder="3">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%82%A8%E8%BF%98%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E6%94%B6%E8%97%8F</text>
+      <textColor>4285229931</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294111986</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
